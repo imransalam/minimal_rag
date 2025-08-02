@@ -1,0 +1,6 @@
+sentence-transformers
+numpy
+google-cloud-aiplatform
+torch
+fastapi[standard]
+google-cloud-aiplatform[prediction]==1.16.0
